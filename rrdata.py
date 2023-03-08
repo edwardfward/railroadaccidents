@@ -4,7 +4,7 @@ import time
 
 import pandas as pd
 from sodapy import Socrata
-
+# [TODO] Add comments and explanation of how to get DOT_APP_TOKEN
 # [TODO] future parameters
 LIMIT_DAYS = 1000 * 60 * 24 * 7
 IN_FILE_PATH = 'accident.pickle'
